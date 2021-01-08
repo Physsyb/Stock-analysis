@@ -1,4 +1,4 @@
-# OVERVIEW: STOCK ANALYSIS USING VBA
+# OVERVIEW: STOCK ANALYSIS (refactored) USING VBA
 
 ## Purpose
 #### The purpose of this project to is edit or refactor the Stock Market data set using the VBA solution code to loop through all the data one time in order to collect an entire dataset. We'll determine whether refactoring the code successfully made the VBA script run faster. Finally, make the code more efficient by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
